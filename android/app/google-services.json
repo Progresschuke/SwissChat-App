@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764357381132",
+    "project_id": "swiss-chat-app",
+    "storage_bucket": "swiss-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764357381132:android:3e853f18285d826b907229",
+        "android_client_info": {
+          "package_name": "com.example.swiss_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClUCFnf4vHYL_hpKQ4NJ5qgyT9cZOcCxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
